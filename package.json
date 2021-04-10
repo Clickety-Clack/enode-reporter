@@ -1,0 +1,17 @@
+{
+  "name": "enode-reporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "primus": "^8.0.2",
+    "primus-emit": "^1.0.0",
+    "primus-spark-latency": "^0.1.1",
+    "web3": "^1.3.5"
+  }
+}
